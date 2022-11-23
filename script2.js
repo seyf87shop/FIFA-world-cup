@@ -7,23 +7,23 @@ window.addEventListener('load', () => {
 embeds = new Array();
 titles = new Array();
 
-embeds[0] = '<iframe src="//stream.crichd.vip/update/bein1max.php" width="100%" height="500px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
+embeds[0] = '<iframe src="//stream.crichd.vip/update/bein1max.php" width="100%" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
 
 titles[0] = 'beIN Sports MAX 1';
 
-embeds[1] = '<iframe src="//stream.crichd.vip/update/fox1usa.php" width="100%" height="500px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
+embeds[1] = '<iframe src="//stream.crichd.vip/update/fox1usa.php" width="100%" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
 
 titles[1] = 'FOX Sports 1 USA';
 
-embeds[2] = '<iframe src="//stream.crichd.vip/update/ch1.php" width="100%" height="500px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
+embeds[2] = '<iframe src="//stream.crichd.vip/update/ch1.php" width="100%" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
 
 titles[2] = 'BBC ONE';
 
-embeds[3] = '<iframe src="//stream.crichd.vip/update/sspsl.php" width="100%" height="500px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
+embeds[3] = '<iframe src="//stream.crichd.vip/update/sspsl.php" width="100%" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
 
 titles[3] = 'SuperSport PSL';
 
-embeds[5] = '<iframe src="qatarworldcup.html" width="100%" height="500px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
+embeds[5] = '<iframe src="qatarworldcup.html" width="100%" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
 
 titles[5] = 'Sports 18';
 
