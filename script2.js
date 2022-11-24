@@ -7,7 +7,9 @@ window.addEventListener('load', () => {
 embeds = new Array();
 titles = new Array();
 
-embeds[0] = '<iframe src="//stream.crichd.vip/update/bein1max.php" width="100%" height="400px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
+// embeds[0] = '<iframe src="//stream.crichd.vip/update/bein1max.php" width="100%" height="400px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
+
+embeds[0] = '<iframe src="//techclips.net/clip/s1.html" width="100%" height="400px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
 
 titles[0] = 'beIN Sports MAX 1';
 
