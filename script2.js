@@ -9,25 +9,27 @@ titles = new Array();
 
 embeds[0] = '<iframe src="//stream.crichd.vip/update/bein1max.php" width="100%" height="400px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
 
-// embeds[0] = '<iframe src="//techclips.net/clip/s1.html" width="100%" height="400px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
-
 titles[0] = 'beIN Sports MAX 1';
 
-embeds[1] = '<iframe src="//stream.crichd.vip/update/fox1usa.php" width="100%" height="400px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
+embeds[1] = '<iframe src="//stream.crichd.vip/update/bein2max.php" width="100%" height="400px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
 
-titles[1] = 'FOX Sports 1 USA';
+titles[1] = 'beIN Sports MAX 2';
 
-embeds[2] = '<iframe src="//stream.crichd.vip/update/ch1.php" width="100%" height="400px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
+embeds[2] = '<iframe src="//stream.crichd.vip/update/fox1usa.php" width="100%" height="400px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
 
-titles[2] = 'BBC ONE';
+titles[2] = 'FOX Sports 1 USA';
 
-embeds[3] = '<iframe src="//stream.crichd.vip/update/sspsl.php" width="100%" height="400px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
+embeds[3] = '<iframe src="//stream.crichd.vip/update/ch1.php" width="100%" height="400px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
 
-titles[3] = 'SuperSport PSL';
+titles[3] = 'BBC ONE';
 
-embeds[5] = '<iframe src="qatarworldcup.html" width="100%" height="400px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
+embeds[4] = '<iframe src="//stream.crichd.vip/update/sspsl.php" width="100%" height="400px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
 
-titles[5] = 'Sports 18';
+titles[4] = 'SuperSport PSL';
+
+embeds[6] = '<iframe src="qatarworldcup.html" width="100%" height="400px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
+
+titles[6] = 'Sports 18';
 
 $(".video-btn").click(function(ev) {
 	ev.preventDefault();
