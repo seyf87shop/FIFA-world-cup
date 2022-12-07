@@ -4,6 +4,7 @@ window.addEventListener('load', () => {
   loaderContainer.style.display = 'none';
 });
 
+
 embeds = new Array();
 titles = new Array();
 
@@ -27,9 +28,9 @@ embeds[4] = '<iframe src="//stream.crichd.vip/update/sspsl.php" width="100%" hei
 
 titles[4] = 'SuperSport PSL';
 
-embeds[6] = '<iframe src="qatarworldcup.html" width="100%" height="400px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
+embeds[7] = '<iframe src="qatarworldcup.html" width="100%" height="400px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>';
 
-titles[6] = 'Sports 18';
+titles[7] = 'Sports 18';
 
 $(".video-btn").click(function(ev) {
 	ev.preventDefault();
